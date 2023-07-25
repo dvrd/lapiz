@@ -6,8 +6,8 @@ Small graphics library to experiment with rendering pixels
 Implementations of the examples can be found inside of `main.rs` for the time being
 
 # Galery
-![circle.ppm](./circle.ppm)
+![circle.png](./circle.png)
 
-![lines.ppm](./lines.ppm)
+![lines.png](./lines.png)
 
-![checkers.ppm](./checkers.ppm)
+![checkers.png](./checkers.png)
